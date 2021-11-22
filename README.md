@@ -1,2 +1,2 @@
 # FreeBSD-PosInstall
-Um pequeno script para automatizar uma Pos-Instalação do freeBSD como desktop
+A small automation script for a desktop freeBSD postinstall

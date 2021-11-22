@@ -1,3 +1,4 @@
+#!/bin/sh
 # - configurando arquivo de boot
 cat << EOF >> /boot/loader.conf
 beastie_disable="YES"
